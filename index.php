@@ -19,7 +19,7 @@
         <a href="add.php">add.php</a> without logging in - it should fail with an error message.
     </p>
     <p>
-        <a href="https://www.wa4e.com/assn/autosess/" target="_blank">Specification for this Application</a>
+        <a href="https://github.com/nlquan-png/modul4/blob/main/login.php" target="_blank">Specification for this Application</a>
     </p>
 </div>
 </body>
